@@ -1,0 +1,10 @@
+****************************
+ "ROCK PAPER SCISSORS"
+Created by Nnnamdi Keshi
+****************************
+Rules:
+1: "r" = Rock
+2: "p" = Paper
+3: "s" = Scissors
+Good Luck!!!
+************************
